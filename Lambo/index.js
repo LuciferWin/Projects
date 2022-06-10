@@ -1,0 +1,1 @@
+alert("Enter F11 For Better Experience");
